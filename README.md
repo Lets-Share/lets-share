@@ -7,7 +7,7 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Haseeb
+# 👋 Hey, I'm Haseeb Ahmad
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Building+Modern+Web+Apps;UI%2FUX+Enthusiast;Always+Learning+New+Things" />
 
